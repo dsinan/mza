@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Main-Class: tr.com.sinya.Eimza
+Application-Name: Sinya A.Ş. e-İmza Uygulaması
+Permissions: all-permissions
+X-POSS-CODEBASE-TEST: http://localhost 127.0.0.1 localhost *
+X-COMMENT: Main-Class will be added automatically by build
+X-POSS-CODEBASE-PROD: http://localhost 127.0.0.1 localhost *
+Caller-Allowable-Codebase: http://localhost 127.0.0.1 localhost *
+Codebase: http://localhost 127.0.0.1 localhost *
+Class-Path: . eimza_lib/akiscif-2.5.4.jar eimza_lib/asn1rt-6.6.4.jar e
+ imza_lib/axis-1.4.jar eimza_lib/ccid-1.1.5.jar eimza_lib/commons-disc
+ overy-0.2.jar eimza_lib/commons-logging-1.1.1.jar eimza_lib/hamcrest-
+ core-1.3.jar eimza_lib/itextpdf-5.5.11.jar eimza_lib/jaxrpc-api-1.1.j
+ ar eimza_lib/jcifs-1.2.19.jar eimza_lib/jna-4.2.1.jar eimza_lib/junit
+ -4.11.jar eimza_lib/ma3api-asic-2.1.8.jar eimza_lib/ma3api-asn-2.1.8.
+ jar eimza_lib/ma3api-aveamssprovider-2.1.8.jar eimza_lib/ma3api-certs
+ tore-2.1.8.jar eimza_lib/ma3api-certvalidation-2.1.8.jar eimza_lib/ma
+ 3api-cmssignature-2.1.8.jar eimza_lib/ma3api-common-2.1.8.jar eimza_l
+ ib/ma3api-crypto-2.1.8.jar eimza_lib/ma3api-crypto-gnuprovider-2.1.8.
+ jar eimza_lib/ma3api-crypto-sunprovider-2.1.8.jar eimza_lib/ma3api-in
+ fra-2.1.8.jar eimza_lib/ma3api-mssclient-2.1.8.jar eimza_lib/ma3api-p
+ ades-2.1.8.jar eimza_lib/ma3api-signature-2.1.8.jar eimza_lib/ma3api-
+ smartcard-2.1.8.jar eimza_lib/ma3api-smartcard-android-2.1.8.jar eimz
+ a_lib/ma3api-smartcard-android-ccid-2.1.8.jar eimza_lib/ma3api-turkce
+ llmssprovider-2.1.8.jar eimza_lib/ma3api-xmlsignature-2.1.8.jar eimza
+ _lib/slf4j-api-1.6.6.jar eimza_lib/slf4j-jdk14-1.6.6.jar eimza_lib/sq
+ lite-jdbc-3.7.2.jar eimza_lib/wsdl4j-1.6.2.jar
